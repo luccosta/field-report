@@ -9,4 +9,4 @@ No cenário de óleo e gás, os agentes de campo com várias atribuições diár
 
 A seguir é exposto o diagrama contendo a visão lógica da arquitetura.
 
-![](docs/header.png)
+![](docs/visao_logica.png)
